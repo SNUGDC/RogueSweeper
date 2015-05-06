@@ -1,17 +1,17 @@
 fileFormatVersion: 2
-guid: a4c7918f2cf66164e9a6bb4012f0cfe4
-timeCreated: 1429968934
+guid: 5badfa104c841a640a09a1e121571797
+timeCreated: 1430937302
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: chicken_0
-    21300002: chicken_1
-    21300004: chicken_2
-    21300006: chicken_3
+    21300000: player_front
+    21300002: player_back
+    21300004: player_left
+    21300006: player_right
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 0
+    enableMipMap: 1
     linearTexture: 0
     correctGamma: 0
     fadeOut: 0
@@ -53,45 +53,45 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: chicken_0
+    - name: player_front
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: chicken_1
+    - name: player_back
       rect:
         serializedVersion: 2
         x: 16
         y: 0
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: chicken_2
+    - name: player_left
       rect:
         serializedVersion: 2
         x: 32
         y: 0
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: chicken_3
+    - name: player_right
       rect:
         serializedVersion: 2
         x: 48
         y: 0
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 

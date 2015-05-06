@@ -1,12 +1,12 @@
 fileFormatVersion: 2
 guid: a995057284090c34fb0e70e8fe1ec553
-timeCreated: 1430786678
+timeCreated: 1430790930
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: tile_hidden
     21300002: tile_flag
-    21300004: tile_bomb
+    21300004: tile_mine
     21300006: tile_0
     21300008: tile_1
     21300010: tile_2
@@ -81,7 +81,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: tile_bomb
+    - name: tile_mine
       rect:
         serializedVersion: 2
         x: 257
